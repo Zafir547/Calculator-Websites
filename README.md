@@ -1,2 +1,2 @@
 # Calculator-Websites
-HTML
+HTML CSS JAVASCRIPT
